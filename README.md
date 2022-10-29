@@ -50,9 +50,8 @@ To run the project in your local machine, you need to go to your local server wh
 If you found the project intresting then please do give this project a star ⭐. 
   <br> <br> <br>
    <p align="center" width="100%">
-   Made with 💖 by Kunal Patel  
+   Made with 💖 by Abhinav Patnaik  
 </p>
 
 # THANKS FOR VISITING
-# Thanks again!!!!
-# HAPPY HACKING
+
